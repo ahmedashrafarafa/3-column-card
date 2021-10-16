@@ -23,14 +23,9 @@ body{
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
 }
 .flex1 {
-    width: 300px;
+    width: 200px;
     height: 300px;    
     padding: 40px;
     margin: 0;

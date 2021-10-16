@@ -31,7 +31,7 @@ body{
     -o-border-radius: 5px;
 }
 .flex1 {
-    width: 375px;
+    width: 250px;
     height: 380px;
     padding: 40px;
     margin: 0;
@@ -47,7 +47,7 @@ body{
     border-top-right-radius: 10px;
 }
 #suvs{
-    background-color: #016972;
+    background-color: #323636;
 }
 #luxury{
     background-color: #00403f;
